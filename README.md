@@ -1,2 +1,2 @@
 # AppExtensions
-Include Today app extension and Share activity - some feature not working in simiulator
+Include Today app extension and Share activity - some features not working in simiulator
